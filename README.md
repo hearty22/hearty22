@@ -1,4 +1,6 @@
 ## Hi there 👋
+![teto](https://i.pinimg.com/originals/19/1f/a4/191fa4c664a83d0fbf3aad4f4e0e16f9.gif).
+
 
 <!--
 **hearty22/hearty22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
