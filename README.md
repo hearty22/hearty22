@@ -1,6 +1,6 @@
 
 
-# ¡Hola! 👋 Mi nombre es Escalante, Facundo
+# ¡Hola! 👋 Mi nombre es Escalante Facundo
 
 
 
@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  Actualmente tengo 18 años y estoy cursando la **Tecnicatura Superior en Desarrollo de Software**. Me apasiona la tecnología y dedicar mi tiempo a aprender cómo construir aplicaciones web que sean funcionales, escalables y visualmente atractivas. 
+  Actualmente tengo 18 años y estoy cursando la "Tecnicatura Superior en Desarrollo de Software"
+. Me apasiona la tecnología y dedicar mi tiempo a aprender cómo construir aplicaciones web que sean funcionales, escalables y visualmente atractivas. 
 </p>
 
 ---
