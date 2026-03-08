@@ -18,7 +18,6 @@ Soy estudiante de la **Tecnicatura Superior en Desarrollo de Software** (2do añ
 
 - 🌱 Actualmente profundizando en **Microservicios, Docker y Seguridad**.
 - 🐧 Usuario entusiasta de **Arch Linux** y **Hyprland**.
-- ⚡ **Fun fact:** Configuro mi entorno en Neovim para programar sin tocar el mouse.
 - 🚀 Buscando oportunidades para crecer como desarrollador Backend/Full Stack.
 
 ---
