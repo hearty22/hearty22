@@ -17,7 +17,6 @@
 Soy estudiante de la **Tecnicatura Superior en Desarrollo de Software** (2do año). Me apasiona el ecosistema **Linux**, la optimización de entornos de desarrollo y la construcción de arquitecturas web escalables.
 
 - 🌱 Actualmente profundizando en **Microservicios, Docker y Seguridad**.
-- 🐧 Usuario entusiasta de **Arch Linux** y **Hyprland**.
 - 🚀 Buscando oportunidades para crecer como desarrollador Backend/Full Stack.
 
 ---
